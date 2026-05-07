@@ -1,0 +1,1 @@
+GRANT SELECT, UPDATE ON public.candidates TO service_role;
